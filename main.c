@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * program_entry - Starting point of execution.
+ * main - Entry Point.
  * @ac: Argument count.
  * @av: Argument vector.
  *
